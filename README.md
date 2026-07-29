@@ -1,52 +1,164 @@
+Python Full Stack Development
+
+Overview
+
+This repository documents my learning journey in Python Full Stack Development. It contains daily coding practice, assignments, notes, and mini-projects completed during my training. The repository is continuously updated to reflect my progress in backend development, frontend development, databases, and full stack application development.
+
+------------------------------------------------------------
+
+Course Modules
+
 Python Programming
 
-A collection of Python programs covering fundamental concepts, problem-solving exercises, and practical implementations. This repository is maintained to strengthen programming skills and document continuous learning.
+• Python Fundamentals
+• Data Types
+• Variables
+• Operators
+• Control Flow
+• Functions
+• Recursion
+• Strings
+• File Handling
+• Lists
+• Tuples
+• Sets
+• Dictionaries
 
----
+Advanced Python
 
-Contents
+• Object-Oriented Programming
+• Exception Handling
+• Modules and Packages
+• Iterators
+• Generators
+• Decorators
+• Python Standard Libraries
 
-- Python Basics
-- Variables and Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Strings
-- Lists
-- Tuples
-- Dictionaries
-- Sets
-- File Handling
-- Exception Handling
-- Object-Oriented Programming
-- Modules
-- Recursion
-- Practice Programs
-- Mini Projects
+Database Systems
 
----
+MySQL
 
-Purpose
+• DBMS Concepts
+• SQL
+• DDL
+• DML
+• DCL
+• TCL
+• Joins
+• Subqueries
+• Views
+• Stored Procedures
 
-- Learn Python from beginner to advanced.
-- Improve problem-solving skills.
-- Build a strong programming foundation.
-- Prepare for coding interviews.
-- Practice clean and efficient coding.
+MongoDB
 
----
+• NoSQL Concepts
+• CRUD Operations
+• Collections
+• Documents
+• Aggregation Framework
+• Indexing
 
-Tools
+Frontend Development
 
-- Python 3
-- Visual Studio Code
-- Jupyter Notebook
-- Git
-- GitHub
+HTML5
 
----
+• Semantic HTML
+• Forms
+• Tables
+• Multimedia
 
-Author
+CSS3
 
-Neeharika Reddy Gadikota
+• Selectors
+• Box Model
+• Flexbox
+• Grid
+• Responsive Design
+• Bootstrap
+
+JavaScript
+
+• ES6+
+• DOM Manipulation
+• Event Handling
+• Form Validation
+• Fetch API
+• Async Programming
+
+React
+
+• Components
+• JSX
+• Props
+• State
+• Hooks
+• React Router
+• Redux
+
+Backend Development
+
+Django / Flask
+
+• Project Architecture
+• Models
+• Views
+• Templates
+• REST APIs
+• Authentication
+• Authorization
+• ORM
+
+Deployment
+
+• JWT Authentication
+• Docker Fundamentals
+• CI/CD Basics
+• Cloud Deployment
+
+------------------------------------------------------------
+
+Repository Structure
+
+Python-Full-Stack/
+│
+├── Day-01/
+├── Day-02/
+├── Day-03/
+├── Python/
+├── SQL/
+├── MongoDB/
+├── HTML/
+├── CSS/
+├── JavaScript/
+├── React/
+├── Django/
+├── Projects/
+└── README.md
+
+------------------------------------------------------------
+
+Learning Approach
+
+• Theory Notes
+• Coding Exercises
+• Assignments
+• Practice Programs
+• Mini Projects
+• Interview-Oriented Examples
+
+------------------------------------------------------------
+
+Objectives
+
+• Strengthen Python programming skills.
+• Build full stack web applications.
+• Learn relational and NoSQL databases.
+• Develop RESTful APIs.
+• Create responsive user interfaces.
+• Follow clean coding and software engineering practices.
+
+------------------------------------------------------------
+
+Status
+
+This repository is actively maintained with daily updates throughout my Python Full Stack Development training.
